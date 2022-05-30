@@ -2,7 +2,7 @@ import streamlit
 import pandas
 import snowflake.connector
 import requests
-import urlib.error from URLError
+import urllib.error from URLError
 
 
 streamlit.title("My Parents new healthy Diner")
